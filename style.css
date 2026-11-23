@@ -9,7 +9,7 @@ Demo from PROG 102 Code
 
 /* HTML styles */
  body {
- background: #a5f0a5;
+ background: #ffffff;
  }
 .content {  
   max-width: 90%;
@@ -23,8 +23,8 @@ Demo from PROG 102 Code
       display: flex;
       align-items: center;
       justify-content: center;
-      background: #CCC;
-      color: #999;
+      background: #67c267;
+      color: #3e7d3e;
       font-size: large;
       font-weight: bold;
       margin-bottom: 10px;
